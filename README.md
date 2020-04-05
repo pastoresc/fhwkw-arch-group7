@@ -8,4 +8,5 @@ Repository for Group 7 of the Architecture course at FH Wien der WKW
  <li>Katharina Joksch</li>
  <li>Claudia Pastores</li>
  <li>Lukas Lindbichler</li>
-</ul>
+<t
+/ul>
