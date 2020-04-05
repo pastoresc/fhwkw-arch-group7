@@ -9,3 +9,8 @@ Repository for Group 7 of the Architecture course at FH Wien der WKW
  <li>Claudia Pastores</li>
  <li>Lukas Lindbichler</li>
 </ul>
+Wir sind eine
+coole Truppe aus 5 Studenten, 
+die motiviert sind 
+ihre GIT-Skills 
+zu verbessern.
