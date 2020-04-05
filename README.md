@@ -14,3 +14,5 @@ coole Truppe aus 5 Studenten,
 die motiviert sind 
 ihre GIT-Skills 
 zu verbessern.
+
+<strong>Text bearbeitet von Claudia</strong>
